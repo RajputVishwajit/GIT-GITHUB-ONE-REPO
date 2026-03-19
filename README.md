@@ -1,5 +1,8 @@
 <h2>Git/GitHub In One Shot</h2>
-<p>Quick Setup</P>
+<h3>Quick Setup</h3>
+<p>
+...or create a new repository on the command line
+</P>
 <pre>
 echo "# Add changes in File" >> README.md
 git init
@@ -9,3 +12,10 @@ git branch -M main
 git remote add origin <https://github.com/[USERNAME]/[REPONAME].git>
 git push -u origin main
 </pre>
+
+<p>
+...or push an existing repository from the command line
+</p>
+git remote add origin <https://github.com/[USERNAME]/[REPONAME].git>
+git branch -M main
+git push -u origin main
