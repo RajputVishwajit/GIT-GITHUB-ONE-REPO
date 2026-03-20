@@ -39,4 +39,6 @@ git congig --list
 </p>
 <pre>
 git branch
+git branch -M main
+
 </pre>
