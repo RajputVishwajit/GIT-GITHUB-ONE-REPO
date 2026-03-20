@@ -40,5 +40,7 @@ git congig --list
 <pre>
 git branch
 git branch -M main
-
+git checkout
+git checkout -b
+git checkout -d
 </pre>
