@@ -44,3 +44,15 @@ git checkout
 git checkout -b
 git checkout -d
 </pre>
+
+
+<p>
+...merge code with feature branch from the command line
+</p>
+<pre>
+git branch
+git diff
+git merge
+git diff main
+git branch -d [BRANCHNAME]
+</pre>
