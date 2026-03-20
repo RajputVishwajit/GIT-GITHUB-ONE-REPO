@@ -56,3 +56,11 @@ git merge
 git diff main
 git branch -d [BRANCHNAME]
 </pre>
+
+
+<p>
+...merge code with feature branch from the command line
+</p>
+<pre>
+git status
+</pre>
